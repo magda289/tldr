@@ -1,0 +1,1 @@
+tldr = angular.module('tldr', []);
